@@ -1,0 +1,32 @@
+.intro
+{
+    color: aqua;
+    font-size: 50px;
+}
+
+.police
+{
+    font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+}
+
+body
+{
+    background: url("https://cdn.discordapp.com/attachments/722004328944107574/738734402862973008/V.webp") fixed no-repeat top right, url("https://cdn.discordapp.com/attachments/722004328944107574/739846494785503302/Snapshot_7.png");
+}
+
+
+
+span
+{
+    width: 350px;
+    position: absolute right;
+    text-align: right;
+    padding: 5px;
+    margin: 50px;
+}
+
+h4
+{
+    border-left: 3px black groove;
+}
+
